@@ -1,0 +1,180 @@
+{
+    "users": {
+        "u1": {
+          "lastVisitAt": 1504772078,
+          "name": "Dr Nang Nilar Htun",
+          "gender": "f",
+          "registeredAt": 1504632260,
+          "id": "u1",
+          "role":"clinician"
+        },
+        "u2": {
+          "lastVisitAt": 1504772078,
+          "name": "Dr Nang Nwe Ni Lin",
+          "gender": "f",
+          "registeredAt": 1504632260,
+          "id": "u2",
+          "role":"clinician"
+        },
+        "u3": {
+          "lastVisitAt": 1507227517,
+          "name": "Dr Myo Min Thant",
+          "gender": "m",
+          "registeredAt": 1507148598,
+          "id": "u3",
+          "role":"clinician"
+        },
+        "u4": {
+          "lastVisitAt": 1509628794,
+          "name": "Dr Min Min Thant",
+          "gender": "m",
+          "registeredAt": 1504025541,
+          "id": "u4",
+          "role":"Clinician"
+        },
+        "u5": {
+          "lastVisitAt": 1509628794,
+          "name": "Dr Ei Nandar",
+          "gender": "f",
+          "registeredAt": 1504025541,
+          "id": "u4",
+          "role":"clinician"
+        },
+        "u6": {
+          "lastVisitAt": 1504772078,
+          "name": "Dr Kyaw Thet Maw",
+          "gender": "m",
+          "registeredAt": 1504632260,
+          "id": "u6",
+          "role":"clinician"
+        },
+        "u7": {
+          "lastVisitAt": 1504772078,
+          "name": "Dr Mya Myint Zuu",
+          "gender": "f",
+          "registeredAt": 1504632260,
+          "id": "u7",
+          "role":"clinician"
+        },
+        "u8": {
+          "lastVisitAt": 1504772078,
+          "name": "Dr Zayar Oo",
+          "gender": "m",
+          "registeredAt": 1504632260,
+          "id": "u8",
+          "role":"clinician"
+        },
+        "u9": {
+          "lastVisitAt": 1504772078,
+          "name": "Dr Min Yu Aung",
+          "gender": "m",
+          "registeredAt": 1504632260,
+          "id": "u9",
+          "role":"clinician"
+        }
+      },
+      "clinicians":{
+        "c1" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "Child",
+          "speciality_mm": "ကလေးအထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u1",
+          "id": "c1"
+        },
+        "c2" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "Child",
+          "speciality_mm": "ကလေးအထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u2",
+          "id": "c2"
+        },
+        "c3" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "Child",
+          "speciality_mm": "ကလေးအထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u3",
+          "id": "c3"
+        },
+        "c4" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "OG",
+          "speciality_mm": "သားဖွား/မီးယပ်အထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u4",
+          "id": "c4"
+        },
+        "c5" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "OG",
+          "speciality_mm": "သားဖွား/မီးယပ်အထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u5",
+          "id": "c5"
+        },
+        "c6" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "Physician",
+          "speciality_mm": "အထွေထွေရောဂါအထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u6",
+          "id": "c6"
+        },
+        "c7" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "Physician",
+          "speciality_mm": "အထွေထွေရောဂါအထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u7",
+          "id": "c7"
+        },
+        "c8" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "Sungeon",
+          "speciality_mm": "ခွဲစိတ်အထူးကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u8",
+          "id": "c8"
+        },
+        "c9" :{
+          "degree": "MBBS, Msc",
+          "sama": "12345",
+          "speciality": "GP",
+          "speciality_mm": "အထွေထွေရောဂါကုဆရာဝန်",
+          "online_offline": {"online": false , "offline": false },
+          "available_time": {"6:AM": "6:00AM", "9:AM":"9:AM"},
+          "available": false,
+          "userId": "u9",
+          "id": "c9"
+        }
+      },
+    "bookings": {
+     
+    }
+}
